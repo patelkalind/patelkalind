@@ -1,7 +1,23 @@
-## Hi there 👋
+<h1>Hi, I'm Kalind!  <a href="https://www.linkedin.com/in/kalind-patel-27883467/">an aspiring IT Professional</a>, 
+
+<h2>👨‍💻 CourseCareers Projects:</h2>
+
+- <b>Gain Understanding of Microsoft Azure</b>
+  
+- <b>Azure Computer and Networking</b>
+  
+- <b>OS Ticket</b>
+
+- <b>VPNs</b>
+
+- <b>Active Directory, DNS, and Network File Shares</b>
+
+<h2> 🤳 Connect with me:</h2>
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/kalind-patel-27883467/
 
 <!--
-**patelkalind/patelkalind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
