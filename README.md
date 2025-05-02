@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kalind!  <a href="https://www.linkedin.com/in/kalind-patel-27883467/">an aspiring IT Professional</a>, 
+<h1>Hi, I'm Kalind!  <a href="https://www.linkedin.com/in/kalind-patel-27883467/">an aspiring IT Professional</a>
 
 <h2>👨‍💻 CourseCareers Projects:</h2>
 
