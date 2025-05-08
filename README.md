@@ -1,20 +1,20 @@
-<h1>Hi, I'm Kalind!  <a href="https://www.linkedin.com/in/kalind-patel-27883467/">an aspiring IT Professional</a>
+<h1>Hi, I'm Kalind, an <a href="https://www.linkedin.com/in/kalind-patel-27883467"> aspiring IT Professional</a>☺</h1>
 
-<h2>👨‍💻 CourseCareers Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Gain Understanding of Microsoft Azure</b>
-  
-- <b>Azure Computer and Networking</b>
-  
-- <b>OS Ticket</b>
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation]()
+  - [osTicket: Post-Installation Configuration]()
+  - [osTicket: Ticket Lifecycle Examples]()
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs]()
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
 
-- <b>VPNs</b>
+<h2>🤳Connect with me:</h2>
 
-- <b>Active Directory, DNS, and Network File Shares</b>
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/kalind-patel-27883467/
+[linkedin]: [(https://www.linkedin.com/in/kalind-patel-27883467)]
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
