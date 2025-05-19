@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration]()
   - [osTicket: Ticket Lifecycle Examples]()
 - <b>Microsoft Azure</b>
+  - [Understanding the Basics of Microsoft Azure](https://github.com/patelkalind/asure-basics) 
   - [Configuring On-premises Active Directory within Azure VMs]()
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
 
