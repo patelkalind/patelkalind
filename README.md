@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kalind, an <a href="https://www.linkedin.com/in/kalind-patel-27883467"> aspiring IT Professional</a>☺</h1>
+<h1>Hi, I'm Kalind, an <a href="https://www.linkedin.com/in/kalind-patel-27883467">  IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Understanding the Basics of Microsoft Azure](https://github.com/patelkalind/asure-basics) 
   - [Configuring On-premises Active Directory within Azure VMs]()
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/patelkalind/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
